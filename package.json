@@ -1,0 +1,24 @@
+{
+  "name": "gerenciador_de_podcast",
+  "version": "1.0.0",
+  "description": "Aplicativo para gerenciar podcasts.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start:dev": "tsx --env-file=.env src/server.ts",
+    "start:watch": "tsx watch --env-file=.env  src/server.ts",
+    "dist": "tsup src",
+    "start:dist": "npm run dist && --env-file=.env node/server.js"
+  },
+  "keywords": [],
+  "author": "Kelvin Clenderson",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "tsup": "^8.0.2",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  }
+}
