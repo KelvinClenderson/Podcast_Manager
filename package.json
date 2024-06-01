@@ -1,5 +1,5 @@
 {
-  "name": "gerenciador_de_podcast",
+  "name": "podcast_manager",
   "version": "1.0.0",
   "description": "Aplicativo para gerenciar podcasts.",
   "main": "index.js",
