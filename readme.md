@@ -2,7 +2,7 @@
 
 **Descrição:**
 
-Este projeto tem como objetivo criar um aplicativo estilo Netflix para centralizar e organizar episódios de podcasts em vídeo, categorizados para facilitar a navegação e o consumo de conteúdo.
+Este projeto tem como objetivo criar um aplicativo aonde podemos organizar episódios de podcasts em vídeo, categorizados para facilitar a navegação e o consumo de conteúdo.
 
 **Domínio:**
 
